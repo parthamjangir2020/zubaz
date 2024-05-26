@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Product Designer",
+      "description": "Product design is a holistic concept that has ownership over both UX and UI design.",
+      "location": "Los Angeles, California",
+      "type": "Full-Time",
+      "salary": "$20K-$35K"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "description": "Customer support specialists assist customers with inquiries or concerns related our products.",
+      "location": "Brooklyn, New York",
+      "type": "Remote",
+      "salary": "$14K-$20K"
+    },
+    {
+      "title": "Marketing Specialist",
+      "description": "Develop comprehensive marketing strategies to drive product awareness and adoption.",
+      "location": "Paris Cedex, France",
+      "type": "Full-Time",
+      "salary": "$12K-$18K"
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "A full-stack developer helps build and maintain both the front-end & the back-end of a website.",
+      "location": "Featherstone Street, UK",
+      "type": "Full-Time",
+      "salary": "$24K-$40K"
+    },
+    {
+      "title": "General Office Manager",
+      "description": "Product design is a holistic concept that has ownership over both UX and UI design.",
+      "location": "Los Angeles, California",
+      "type": "Full-Time",
+      "salary": "$18K-$26K"
+    }
+  ]
+  

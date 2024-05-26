@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Financial Planning",
+    "icon": "/images/v1/icon3.png",
+    "description": "Users easily can create & track all types budgets, set financial goals, and plan for their future."
+  },
+  {
+    "title": "Security Features",
+    "icon": "/images/v1/icon4.png",
+    "description": "Security is a crucial aspect of our finance app. Security measures to protect users' financial data."
+  },
+  {
+    "title": "Tax Preparation",
+    "icon": "/images/v1/icon5.png",
+    "description": "Preparing all the filing taxes, and optimizing deductions for ensuring compliance with tax laws."
+  },
+  {
+    "title": "Offline Access",
+    "icon": "/images/v1/icon6.png",
+    "description": "Offline access means you can use essential features and data without an internet connection."
+  },
+  {
+    "title": "Currency Conversion",
+    "icon": "/images/v1/icon7.png",
+    "description": "Al the travelers or international business, our finance app also offer currency conversion tools."
+  },
+  {
+    "title": "Integration Support",
+    "icon": "/images/v1/icon8.png",
+    "description": "The ability to connect with other financial tools accounting software, or payment platforms."
+  }
+]

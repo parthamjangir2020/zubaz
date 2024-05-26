@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "image": "/images/blog/blog5.png",
+      "category": "Business",
+      "date": "June 18, 2024",
+      "title": "Fintech for millennials: How apps are meeting the best financial needs of a new generation",
+      "description": "We’ve been embracing information technology (IT) in various facets of our lives. From manufacturing to healthcare, IT is omnipresent and...",
+      "link": "single-blog"
+    },
+    {
+      "id": 2,
+      "image": "/images/blog/blog4.png",
+      "category": "Technology",
+      "date": "June 18, 2024",
+      "title": "I'm assuming the enterprise platform will only be available as a SaaS and not something that can be",
+      "description": "I'm assuming the enterprise platform will only be available as a SaaS and not something that can be deployed into a personal cloud account...",
+      "link": "single-blog"
+    },
+    {
+      "id": 3,
+      "image": "/images/blog/blog6.png",
+      "category": "Finance",
+      "date": "June 18, 2024",
+      "title": "Customer engagement for SaaS: 10 AI tools you must need for your SaaS business!",
+      "description": "We all know how AI has been playing a significant role in the business or your day-to-day tasks, I’ve been using Open AI GPT 4 almost every time...",
+      "link": "single-blog"
+    }
+   
+  ]
+  

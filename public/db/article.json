@@ -1,0 +1,27 @@
+[
+    {
+      "category": "Business",
+      "date": "June 18, 2024",
+      "title": "What is a good solution for finance apps?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla consectetur libero a condimentum. Nulla vel ultricies mauris. Nulla id varius odio. Curabitur vel tortor sit amet ex viverra rhoncus a at enim. Phasellus suscipit eleifend mi, id lacinia mauris sollicitudin vel. Donec pretium justo sed sapien fringilla dictum. Nullam non lorem eget enim placerat scelerisque. Vivamus sit amet lectus auctor, viverra ex vel, sagittis neque. Duis vitae congue ex. Ut non consectetur velit. Donec id consequat eros. Integer ut mauris sapien. Nulla eu imperdiet libero.",
+      "image": "/images/blog/blog1.png",
+      "link": "single-blog.html"
+    },
+    {
+      "category": "Technology",
+      "date": "June 18, 2024",
+      "title": "What makes banking app development ideal?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla consectetur libero a condimentum. Nulla vel ultricies mauris. Nulla id varius odio. Curabitur vel tortor sit amet ex viverra rhoncus a at enim. Phasellus suscipit eleifend mi, id lacinia mauris sollicitudin vel. Donec pretium justo sed sapien fringilla dictum. Nullam non lorem eget enim placerat scelerisque. Vivamus sit amet lectus auctor, viverra ex vel, sagittis neque. Duis vitae congue ex. Ut non consectetur velit. Donec id consequat eros. Integer ut mauris sapien. Nulla eu imperdiet libero.",
+      "image": "/images/blog/blog2.png",
+      "link": "single-blog.html"
+    },
+    {
+      "category": "Management",
+      "date": "June 18, 2024",
+      "title": "Finance apps that will help you make money!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla consectetur libero a condimentum. Nulla vel ultricies mauris. Nulla id varius odio. Curabitur vel tortor sit amet ex viverra rhoncus a at enim. Phasellus suscipit eleifend mi, id lacinia mauris sollicitudin vel. Donec pretium justo sed sapien fringilla dictum. Nullam non lorem eget enim placerat scelerisque. Vivamus sit amet lectus auctor, viverra ex vel, sagittis neque. Duis vitae congue ex. Ut non consectetur velit. Donec id consequat eros. Integer ut mauris sapien. Nulla eu imperdiet libero.",
+      "image": "/images/blog/blog3.png",
+      "link": "single-blog.html"
+    }
+  ]
+  

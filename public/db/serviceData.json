@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Customer support",
+    "icon": "/images/v3/icon1.png",
+    "description": "Clients engagement platform that offers tools for ticketing.",
+    "link": "single-service"
+  },
+  {
+    "title": "Project management",
+    "icon": "/images/v3/icon2.png",
+    "description": "A project and task management tool that helps plan, organize.",
+    "link": "single-service"
+  },
+  {
+    "title": "Email marketing",
+    "icon": "/images/v3/icon3.png",
+    "description": "A widely used email marketing platform with some features.",
+    "link": "single-service"
+  },
+  {
+    "title": "Human resources",
+    "icon": "/images/v3/icon4.png",
+    "description": "An all-in-one HR, payroll, and benefits platform designed.",
+    "link": "single-service"
+  },
+  {
+    "title": "Accounting and finance",
+    "icon": "/images/v3/icon5.png",
+    "description": "Accounting software that helps with invoicing financial report.",
+    "link": "single-service"
+  },
+  {
+    "title": "Cyber Security",
+    "icon": "/images/v3/icon6.png",
+    "description": "Security platform that provide protection from cyber threat.",
+    "link": "single-service"
+  },
+  {
+    "title": "Security features",
+    "icon": "/images/v3/icon7.png",
+    "description": "Security is a crucial aspect of our app security measures.",
+    "link": "single-service"
+  },
+  {
+    "title": "Integration support",
+    "icon": "/images/v3/icon8.png",
+    "description": "Ability to connect with other financial tools of accounting.",
+    "link": "single-service"
+  },
+  {
+    "title": "Currency conversion",
+    "icon": "/images/v3/icon9.png",
+    "description": "Our finance app also offers all currency conversion tools.",
+    "link": "single-service"
+  }
+]
